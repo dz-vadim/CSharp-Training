@@ -1,0 +1,7 @@
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\bin\Debug\StreamAndFiles.exe.config
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\bin\Debug\StreamAndFiles.exe
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\bin\Debug\StreamAndFiles.pdb
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\obj\Debug\StreamAndFiles.csprojAssemblyReference.cache
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\obj\Debug\StreamAndFiles.csproj.CoreCompileInputs.cache
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\obj\Debug\StreamAndFiles.exe
+D:\Csharp\Lesson16\StreamAndFiles\StreamAndFiles\obj\Debug\StreamAndFiles.pdb
