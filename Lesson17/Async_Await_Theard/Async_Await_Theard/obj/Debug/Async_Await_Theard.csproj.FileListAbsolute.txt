@@ -1,0 +1,7 @@
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\bin\Debug\Async_Await_Theard.exe.config
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\bin\Debug\Async_Await_Theard.exe
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\bin\Debug\Async_Await_Theard.pdb
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\obj\Debug\Async_Await_Theard.csprojAssemblyReference.cache
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\obj\Debug\Async_Await_Theard.csproj.CoreCompileInputs.cache
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\obj\Debug\Async_Await_Theard.exe
+D:\Csharp\Lesson17\Async_Await_Theard\Async_Await_Theard\obj\Debug\Async_Await_Theard.pdb
