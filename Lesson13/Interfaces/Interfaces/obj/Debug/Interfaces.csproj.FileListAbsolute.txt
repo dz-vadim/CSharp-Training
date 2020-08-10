@@ -1,0 +1,7 @@
+D:\Csharp\Lesson13\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\Csharp\Lesson13\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\Csharp\Lesson13\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\Csharp\Lesson13\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\Csharp\Lesson13\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\Csharp\Lesson13\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\Csharp\Lesson13\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
