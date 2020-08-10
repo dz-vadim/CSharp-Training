@@ -1,0 +1,6 @@
+D:\Csharp\Lesson14\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\Csharp\Lesson14\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\Csharp\Lesson14\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\Csharp\Lesson14\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\Csharp\Lesson14\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\Csharp\Lesson14\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
