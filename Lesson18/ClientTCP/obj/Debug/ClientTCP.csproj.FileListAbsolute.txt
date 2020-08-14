@@ -1,0 +1,6 @@
+D:\CSharp\Lesson18\ClientTCP\bin\Debug\ClientTCP.exe.config
+D:\CSharp\Lesson18\ClientTCP\bin\Debug\ClientTCP.exe
+D:\CSharp\Lesson18\ClientTCP\bin\Debug\ClientTCP.pdb
+D:\CSharp\Lesson18\ClientTCP\obj\Debug\ClientTCP.exe
+D:\CSharp\Lesson18\ClientTCP\obj\Debug\ClientTCP.pdb
+D:\CSharp\Lesson18\ClientTCP\obj\Debug\ClientTCP.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\CSharp\Lesson18\Lesson18\bin\Debug\Lesson18.exe.config
+D:\CSharp\Lesson18\Lesson18\bin\Debug\Lesson18.exe
+D:\CSharp\Lesson18\Lesson18\bin\Debug\Lesson18.pdb
+D:\CSharp\Lesson18\Lesson18\obj\Debug\Lesson18.exe
+D:\CSharp\Lesson18\Lesson18\obj\Debug\Lesson18.pdb
