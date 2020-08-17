@@ -1,0 +1,6 @@
+C:\Users\black\source\repos\LINQ\Lesson19\bin\Debug\Lesson19.exe.config
+C:\Users\black\source\repos\LINQ\Lesson19\bin\Debug\Lesson19.exe
+C:\Users\black\source\repos\LINQ\Lesson19\bin\Debug\Lesson19.pdb
+C:\Users\black\source\repos\LINQ\Lesson19\obj\Debug\Lesson20.csprojAssemblyReference.cache
+C:\Users\black\source\repos\LINQ\Lesson19\obj\Debug\Lesson19.exe
+C:\Users\black\source\repos\LINQ\Lesson19\obj\Debug\Lesson19.pdb
